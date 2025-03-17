@@ -1,10 +1,10 @@
 /**
- * Test class 
+ * @description Test class 
  */
 
 public with sharing class Dev3 {
     /** 
-     * Test constructor
+     * @description Test constructor
      */
     public Dev3() {
         System.debug('Testing');
