@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Date_of_Birth__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Last_Name__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
